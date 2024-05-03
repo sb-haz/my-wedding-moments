@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   const instagram = "https://www.instagram.com/my.wedding.moments";
   const tiktok = "https://www.tiktok.com/@myweddingmoments";
-  const app = "www.myweddingmoments.com/"
+  const app = "https://myweddingmoments.netlify.app/"
 
   return (
     <div className="content">
