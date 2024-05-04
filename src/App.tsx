@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="content">
       <div className="text-box">
-        <h1><span>💍</span> My Wedding Moments</h1>
+        <h1 className="satisfy-regular" ><span>💍</span> My Wedding Moments</h1>
         <div className="links">
           <a href={app} target="_blank">Get App</a>
           <p>•</p>
