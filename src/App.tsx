@@ -56,7 +56,7 @@ function App() {
           </div>
 
           <div className='feature-card'>
-            <h2>Interactive Games</h2>
+            <h2>Interactive Wedding Games</h2>
             <p>Entertain guests with engaging wedding games, including fun quizzes such as... 'Who knows the Bride the best?'</p>
           </div>
 
