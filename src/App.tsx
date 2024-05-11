@@ -10,6 +10,7 @@ function App() {
       <div className="top-section">
 
       <img src="couple.png" alt="App Store" />
+      {/* https://avatoon.net/wedding-cartoon-photo/ */}
         
         <h1 className="satisfy-regular">My Wedding Moments</h1>
 
