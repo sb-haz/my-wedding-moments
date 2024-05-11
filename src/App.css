@@ -69,6 +69,8 @@ body {
   width: 20%;
   height: auto;
   margin-bottom: -45px;
+
+  align-self: center;
 }
 
 @media screen and (max-width: 768px) {
