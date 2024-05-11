@@ -83,12 +83,13 @@ function App() {
 
       <footer className="footer-section">
         <div className="footer-content">
-          <div className="contact-info">
-            <p>enquiries@myweddingmoments.com</p>
-          </div>
           <div className="social-links">
             <a href={instagram} target="_blank">Instagram<i className="fab fa-instagram"></i></a>
             <a href={tiktok} target="_blank">TikTok<i className="fab fa-tiktok"></i></a>
+          </div>
+          <div className="contact-info">
+            <p>enquiries@myweddingmoments.com</p>
+            <p>© My Wedding Moments 2024</p>
           </div>
         </div>
       </footer>

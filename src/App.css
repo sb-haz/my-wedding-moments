@@ -115,12 +115,13 @@ div {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  height: 6vh;
   align-items: center;
+  margin-bottom: 10px;
 }
 
 .contact-info p {
   width: 100%;
+  margin-top: 8px;
 }
 
 .social-links {
