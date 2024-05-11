@@ -66,9 +66,15 @@ body {
 }
 
 .top-section img {
-  width: 50%;
+  width: 20%;
   height: auto;
   margin-bottom: -45px;
+}
+
+@media screen and (max-width: 768px) {
+  .top-section img {
+    width: 40%;
+  }
 }
 
 /* Cards */
