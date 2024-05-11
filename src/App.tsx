@@ -9,9 +9,11 @@ function App() {
     <div className="content">
       <div className="top-section">
 
-      <img src="couple.png" alt="App Store" />
-      {/* https://avatoon.net/wedding-cartoon-photo/ */}
-        
+        <div>
+          <img src="couple.png" alt="App Store" />
+          {/* https://avatoon.net/wedding-cartoon-photo/ */}
+        </div>
+
         <h1 className="satisfy-regular">My Wedding Moments</h1>
 
         <div className="app-images">

@@ -69,8 +69,6 @@ body {
   width: 20%;
   height: auto;
   margin-bottom: -45px;
-  
-  object-fit: cover;
 }
 
 @media screen and (max-width: 768px) {
