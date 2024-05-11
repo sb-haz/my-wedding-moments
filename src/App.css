@@ -141,3 +141,11 @@ div {
   height: auto;
   margin: 0 10px; 
 }
+
+.coming-soon img {
+  width: 110px;
+  height: auto;
+  margin: 0 10px; 
+  margin-left: 80%;
+  margin-top: -20%;
+}

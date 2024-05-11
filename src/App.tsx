@@ -17,6 +17,10 @@ function App() {
           <a href={app} target="_blank"><img src="play_store_image.png" alt="App Store" /></a>
         </div>
 
+        <div className="coming-soon">
+          <img src="coming-soon.png" alt="Coming Soon" />
+        </div>
+
         {/* <div className="links">
             <a href={app} target="_blank">Get App</a>
             <p>•</p>
