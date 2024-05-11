@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Sans:ital,wght@0,200..900;1,200..900&display=swap');
 
 * {
   /* remove all padding */
@@ -93,6 +94,10 @@ div {
   color: rgb(190, 21, 21);
 }
 
+.feature-card h2  {
+  font-family: "Reddit Sans";
+}
+
 .feature-card p {
   margin-top: 10px;
 }
@@ -148,4 +153,9 @@ div {
   margin: 0 10px; 
   margin-left: 80%;
   margin-top: -20%;
+}
+
+.icon {
+  height: 30px;
+  /* google icons size 24 colour #cccc */
 }

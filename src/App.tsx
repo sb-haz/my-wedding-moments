@@ -34,32 +34,37 @@ function App() {
         <div className="feature-cards">
 
           <div className='feature-card'>
+            <img className="icon" src="camera-icon.png" alt="App Store" />
             <h2>Capture the Moment</h2>
             <p>Guests capture disposable photos within the app, which is then printed into a physical album for the couple to cherish.</p>
           </div>
 
           <div className='feature-card'>
+            <img className="icon" src="video-icon.png" alt="App Store" />
             <h2>Send Video Messages</h2>
             <p>Leave heartfelt video messages and best wishes, enhanced with custom filters, for the newlyweds to watch later.</p>
           </div>
 
           <div className='feature-card'>
+            <img className="icon" src="store-icon.png" alt="App Store" />
             <h2>Find Wedding Vendors</h2>
             <p>Discover and connect with wedding vendors offering services and products, such as chauffeuring, dessert tables, etc.</p>
           </div>
 
           <div className='feature-card'>
+            <img className="icon" src="tools-icon.png" alt="App Store" />
             <h2>Event Planning Tools</h2>
             <p>Access resources, advice, and recommendations for seamless wedding planning, from budgeting to free CV templates.</p>
           </div>
-
-        
+ 
           <div className='feature-card'>
+            <img className="icon" src="gift-icon.png" alt="App Store" />
             <h2>Send Gifts and Money</h2>
             <p>Guests can contribute directly to the newlyweds through the app, helping kickstart their new life together.</p>
           </div>
 
           <div className='feature-card'>
+            <img className="icon" src="games-icon.png" alt="App Store" />
             <h2>Interactive Wedding Games</h2>
             <p>Entertain guests with engaging wedding games, including fun quizzes such as... 'Who knows the Bride the best?'</p>
           </div>
