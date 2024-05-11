@@ -8,9 +8,10 @@ function App() {
   return (
     <div className="content">
       <div className="top-section">
-        {/* <h1 className="satisfy-regular"><span>💍</span> My Wedding Moments</h1> */}
+
+      <img src="couple.png" alt="App Store" />
+        
         <h1 className="satisfy-regular">My Wedding Moments</h1>
-        {/* <p>Revolutionize your wedding experience.</p> */}
 
         <div className="app-images">
           <a href={app} target="_blank"><img src="app_store_image.png" alt="App Store" /></a>
@@ -21,13 +22,6 @@ function App() {
           <img src="coming-soon.png" alt="Coming Soon" />
         </div>
 
-        {/* <div className="links">
-            <a href={app} target="_blank">Get App</a>
-            <p>•</p>
-            <a href={instagram} target="_blank">Instagram</a>
-            <p>•</p>
-            <a href={tiktok} target="_blank">TikTok</a>
-          </div> */}
       </div>
 
       <div className='feature-section'>
