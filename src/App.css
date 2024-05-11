@@ -67,6 +67,7 @@ body {
 
 .top-section img {
   width: 50%;
+  height: auto;
   margin-bottom: -45px;
 }
 
