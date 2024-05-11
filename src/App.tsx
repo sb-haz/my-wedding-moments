@@ -73,7 +73,7 @@ function App() {
       </div>
 
       <div className="contact-section">
-        <h5>Be the First to Know About the App Launch</h5>
+        <h5>Be the First to Know About the App Launch!</h5>
         <form name="myweddingmoments-form" method="POST" data-netlify="true">
           <input type="hidden" name="form-name" value="myweddingmoments-form" />
           <input type="email" name="email" placeholder="Your email" />
