@@ -65,7 +65,7 @@ function App() {
 
           <div className='feature-card'>
             <img className="icon" src="games-icon.png" alt="App Store" />
-            <h2>Interactive Wedding Games</h2>
+            <h2>Interactive Games</h2>
             <p>Entertain guests with engaging wedding games, including fun quizzes such as... 'Who knows the Bride the best?'</p>
           </div>
 
