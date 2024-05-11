@@ -46,6 +46,18 @@ function App() {
           </div>
 
           <div className='feature-card'>
+            <img className="icon" src="gift-icon.png" alt="App Store" />
+            <h2>Send Gifts and Money</h2>
+            <p>Guests can contribute directly to the newlyweds through the app, helping kickstart their new life together.</p>
+          </div>
+
+          <div className='feature-card'>
+            <img className="icon" src="games-icon.png" alt="App Store" />
+            <h2>Interactive Games</h2>
+            <p>Entertain guests with engaging wedding games, including fun quizzes such as... 'Who knows the Bride the best?'</p>
+          </div>
+
+          <div className='feature-card'>
             <img className="icon" src="store-icon.png" alt="App Store" />
             <h2>Find Wedding Vendors</h2>
             <p>Discover and connect with wedding vendors offering services and products, such as chauffeuring, dessert tables, etc.</p>
@@ -57,17 +69,7 @@ function App() {
             <p>Access resources, advice, and recommendations for seamless wedding planning, from budgeting to free CV templates.</p>
           </div>
  
-          <div className='feature-card'>
-            <img className="icon" src="gift-icon.png" alt="App Store" />
-            <h2>Send Gifts and Money</h2>
-            <p>Guests can contribute directly to the newlyweds through the app, helping kickstart their new life together.</p>
-          </div>
-
-          <div className='feature-card'>
-            <img className="icon" src="games-icon.png" alt="App Store" />
-            <h2>Interactive Games</h2>
-            <p>Entertain guests with engaging wedding games, including fun quizzes such as... 'Who knows the Bride the best?'</p>
-          </div>
+           
 
 
         </div>
