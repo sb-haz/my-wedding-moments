@@ -68,11 +68,17 @@ function App() {
             <h2>Event Planning Tools</h2>
             <p>Access resources, advice, and recommendations for seamless wedding planning, from budgeting to free CV templates.</p>
           </div>
- 
-           
-
 
         </div>
+      </div>
+
+      <div className="contact-section">
+        <h5>Be the First to Know About the App Launch</h5>
+        <form name="sbhaz-form" method="POST" data-netlify="true">
+          <input type="hidden" name="form-name" value="myweddingmoments-form" />
+          <input type="email" name="email" placeholder="Your email" />
+          <button type="submit">Notify Me</button>
+        </form>
       </div>
 
       <footer className="footer-section">
