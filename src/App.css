@@ -134,6 +134,7 @@ div {
   justify-content: center;
   align-items: center;
   margin-bottom: 10px;
+  min-height: 110px;
 }
 
 .contact-info p {
