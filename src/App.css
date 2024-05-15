@@ -24,6 +24,14 @@ body {
   min-height: 100vh; /* not required if page long enough */
 }
 
+html, body {
+  overflow-x: hidden;
+}
+
+body {
+  overflow-y: auto;
+}
+
 /* div to contain other sections */
 .content {
   display: flex;
@@ -129,7 +137,7 @@ div {
   justify-content: center;
   align-items: center;
   margin-bottom: 10px;
-  min-height: 110px;
+  min-height: 100px;
 }
 
 .contact-info p {
