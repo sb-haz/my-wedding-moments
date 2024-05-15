@@ -24,9 +24,13 @@ body {
   min-height: 100vh; /* not required if page long enough */
 }
 
-html, body {
+html {
   overflow-x: hidden;
-  overflow-y: visible;
+}
+
+body {
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 /* div to contain other sections */
