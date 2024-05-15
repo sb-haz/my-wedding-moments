@@ -24,10 +24,6 @@ body {
   min-height: 100vh; /* not required if page long enough */
 }
 
-html, body {
-  overflow-x: hidden;
-}
-
 /* div to contain other sections */
 .content {
   display: flex;
