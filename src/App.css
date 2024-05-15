@@ -29,7 +29,7 @@ html, body {
 }
 
 body {
-  overflow-y: auto;
+  overflow-y: scroll;
 }
 
 /* div to contain other sections */
