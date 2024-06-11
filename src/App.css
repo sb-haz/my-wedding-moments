@@ -59,12 +59,13 @@ body {
 
   /* move title down */
   margin-top: 0vh;
-  margin-bottom: 5vh;
+  margin-bottom: 15px;
 }
 
 .top-section h1 {
   font-size: 50px;
   text-align: center;
+  padding-top: 50px;
 }
 
 .top-section .links {
@@ -80,11 +81,11 @@ body {
   margin-bottom: -45px;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .top-section img {
     width: 50%;
   }
-}
+} */
 
 /* Cards */
 
@@ -201,10 +202,23 @@ div {
 
 
 /* images */ 
+.top-art img {
+  width: 100%;
+  display: none; 
+}
+
+@media screen and (max-width: 500px) {
+  .top-art img {
+    display: block; 
+  }
+}
+
+
 .app-images {
   display: flex;
   justify-content: center;
   margin-bottom: 20px; 
+  margin-top: 8px;
 }
 
 .app-images img {
@@ -219,6 +233,11 @@ div {
   margin: 0 10px; 
   margin-left: 80%;
   margin-top: -20%;
+}
+
+.mockup-1 img {
+  width: 250px;
+  padding-top: 50px;
 }
 
 .icon {

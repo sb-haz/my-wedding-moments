@@ -6,12 +6,22 @@ function App() {
   const app = "https://myweddingmoments.netlify.app/"
 
   return (
+    <div className="outer">
+      {/* <div className="top-art">
+          <img src="top-art.png" alt="" />
+        </div> */}
     <div className="content">
       <div className="top-section">
 
-        <div>
-          <img src="couple.png" alt="App Store" />
+        {/* <div>
+          <img src="couple.png" alt="App Store" /> */}
           {/* https://avatoon.net/wedding-cartoon-photo/ */}
+        {/* </div> */}
+
+        {/* <p className="slogan">Make your wedding a memorable one.</p> */}
+
+        <div className="mockup-1">
+          <img src="mockup-1.png" alt="iPhone Mockup" />
         </div>
 
         <h1 className="satisfy-regular">My Wedding Moments</h1>
@@ -24,6 +34,10 @@ function App() {
         <div className="coming-soon">
           <img src="coming-soon.png" alt="Coming Soon" />
         </div>
+
+        {/* <div className="mockup-1">
+          <img src="mockup-1.png" alt="iPhone Mockup" />
+        </div> */}
 
       </div>
 
@@ -91,6 +105,7 @@ function App() {
         </div>
       </footer>
 
+    </div>
     </div>
   )
 }
